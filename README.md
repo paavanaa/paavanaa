@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hey<br>I'm Paavanaa, a developer and designer from India with a passion for machine learning, data analytics, and AI.<br>Feel free to check out my repositories and connect!
+Heyyy👋<br>I'm Paavanaa, a developer and designer from India with a passion for machine learning, data analytics, and AI.<br>Feel free to check out my repositories and connect!✨
 
 
-## 🌐 Socials:
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paavanaa_dl)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paavanaa-dl-607061278)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Paavanaa)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Paavanaa-Dl)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paavanaadl@gmail.com)
 
 
